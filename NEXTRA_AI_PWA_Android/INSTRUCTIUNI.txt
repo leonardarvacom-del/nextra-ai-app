@@ -1,0 +1,9 @@
+NEXTRA AI PWA - INSTALARE PE SAMSUNG
+
+1. Deschide github.com pe laptop si creeaza un repository PUBLIC nou, de exemplu nextra-ai-app.
+2. In repository: Add file > Upload files. Incarca fisierele din acest ZIP (index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png si .nojekyll) direct in radacina repository-ului. Nu incarca ZIP-ul ca atare.
+3. Settings > Pages > Build and deployment > Deploy from a branch > main > /(root) > Save.
+4. Dupa publicare, vei avea o adresa de forma https://UTILIZATOR.github.io/nextra-ai-app/
+5. Pe Samsung, deschide adresa in Chrome > meniul cu trei puncte > Install app / Instaleaza aplicatia.
+
+ATENTIE: Repo public = cod public. Nu pune chei API, parole sau date personale in fisiere. Datele portofoliului demo raman locale pe fiecare dispozitiv. Conexiunea la API-urile de piata si CDN necesita internet. Offline, afiseaza date indisponibile.
